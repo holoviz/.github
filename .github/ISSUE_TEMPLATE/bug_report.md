@@ -11,11 +11,11 @@ assignees: ''
 
 *ISSUES THAT DO NOT CONTAIN NECESSARY INFORMATION MAY BE CLOSED, IMMEDIATELY*
 
-The issue tracker is NOT the place for general support. For questions and technical assistance, ask us on [Gitter](https://gitter.im/pyviz/pyviz).
+The issue tracker is NOT the place for general support. For usage questions and technical assistance, ask us on [Discourse](https://discourse.holoviz.org).
 
 For defects or deficiencies, please provide *ALL OF THE FOLLOWING*:
 
-#### ALL software version info (Panel, bokeh, python, notebook, OS, browser, any other relevant packages)
+#### ALL software version info (this library, plus other relevant ones e.g. bokeh, python, notebook, OS, browser, any other relevant packages)
 
 #### Description of expected behavior and the observed behavior
 
