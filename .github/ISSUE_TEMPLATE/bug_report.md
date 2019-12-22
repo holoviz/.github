@@ -15,7 +15,7 @@ The issue tracker is NOT the place for general support. For usage questions and 
 
 For defects or deficiencies, please provide *ALL OF THE FOLLOWING*:
 
-#### ALL software version info (this library, plus other relevant ones e.g. bokeh, python, notebook, OS, browser, any other relevant packages)
+#### ALL software version info (this library, plus any other relevant software, e.g. bokeh, python, notebook, OS, browser, etc)
 
 #### Description of expected behavior and the observed behavior
 
