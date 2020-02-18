@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: HoloViz Discourse
     url: https://discourse.holoviz.org/
-    about: Discussions and questions about using HoloViz tools
+    about: Any other issue, including usage questions
