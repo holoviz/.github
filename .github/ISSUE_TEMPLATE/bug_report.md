@@ -7,15 +7,11 @@ assignees: ''
 
 ---
 
-### FOLLOW THESE INSTRUCTIONS CAREFULLY
+Thanks for contacting us! Please read and follow these instructions carefully, then delete this introductory text to keep your issue easy to read. Note that the issue tracker is NOT the place for usage questions and technical assistance; post those at [Discourse](https://discourse.holoviz.org) instead. Issues without the required information below may be closed immediately.
 
-*ISSUES THAT DO NOT CONTAIN NECESSARY INFORMATION MAY BE CLOSED, IMMEDIATELY*
 
-The issue tracker is NOT the place for general support. For usage questions and technical assistance, ask us on [Discourse](https://discourse.holoviz.org).
-
-For defects or deficiencies, please provide *ALL OF THE FOLLOWING*:
-
-#### ALL software version info (this library, plus any other relevant software, e.g. bokeh, python, notebook, OS, browser, etc)
+#### ALL software version info
+(this library, plus any other relevant software, e.g. bokeh, python, notebook, OS, browser, etc)
 
 #### Description of expected behavior and the observed behavior
 
