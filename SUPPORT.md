@@ -1,1 +1,0 @@
-For usage questions and technical assistance, please ask us on [Discourse](https://discourse.holoviz.org). If you have found a problem or have an idea for a feature, please open an issue. Thanks!
