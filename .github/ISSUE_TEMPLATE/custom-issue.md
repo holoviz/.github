@@ -7,5 +7,4 @@ assignees: ''
 
 ---
 
-
-Before creating a custom issue, you might want to discuss with us on [Discourse](https://discourse.holoviz.org).
+Stop! Github issues are for feature requests and bug reports only; just about anything else should be opened on [Discourse](https://discourse.holoviz.org) instead.
