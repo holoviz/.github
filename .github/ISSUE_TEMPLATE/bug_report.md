@@ -15,6 +15,8 @@ Thanks for contacting us! Please read and follow these instructions carefully, t
 
 #### Description of expected behavior and the observed behavior
 
+- [ ] I'd like to create a pull request to address this
+
 #### Complete, minimal, self-contained example code that reproduces the issue
 
 ```
