@@ -25,3 +25,5 @@ Thanks for contacting us! Please read and follow these instructions carefully, t
 #### Stack traceback and/or browser JavaScript console output
 
 #### Screenshots or screencasts of the bug in action
+
+- [ ] I may be interested in making a pull request to address this
