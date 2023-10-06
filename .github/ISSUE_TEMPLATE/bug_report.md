@@ -11,7 +11,7 @@ Thanks for contacting us! Please read and follow these instructions carefully, t
 
 
 #### ALL software version info
-(this library, plus any other relevant software, e.g. bokeh, python, notebook, OS, browser, etc)
+(this library, plus any other relevant software, e.g. bokeh, python, jupyter notebook or lab plus [extensions](https://jupyterlab.readthedocs.io/en/stable/user/extensions.html#using-the-terminal), OS, browser, etc)
 
 #### Description of expected behavior and the observed behavior
 
@@ -23,6 +23,7 @@ Thanks for contacting us! Please read and follow these instructions carefully, t
 ```
 
 #### Stack traceback and/or browser JavaScript console output
+(If using jupyter lab, check the log console)
 
 #### Screenshots or screencasts of the bug in action
 
