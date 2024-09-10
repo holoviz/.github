@@ -11,13 +11,21 @@ Thanks for contacting us! Please read and follow these instructions carefully, t
 
 
 #### ALL software version info
-(this library, plus any other relevant software, e.g. bokeh, python, notebook, OS, browser, etc)
+(this library, plus any other relevant software, e.g. bokeh, python, notebook, OS, browser, etc should be added within the dropdown below.)
+
+<details>
+    <summary>Software Version Info</summary>
+
+```plaintext
+Include version information here      
+```    
+</details>
 
 #### Description of expected behavior and the observed behavior
 
 #### Complete, minimal, self-contained example code that reproduces the issue
 
-```
+```python
 # code goes here between backticks
 
 ```
