@@ -25,7 +25,7 @@ Include version information here
 
 #### Complete, minimal, self-contained example code that reproduces the issue
 
-```Python
+```python
 # code goes here between backticks
 
 ```
