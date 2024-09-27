@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 <!--
-Thanks for contacting us! Please read and follow these instructions carefully, then delete this introductory text to keep your issue easy to read. Note that the issue tracker is NOT the place for usage questions and technical assistance; post those at [Discourse](https://discourse.holoviz.org) instead. Issues without the required information below may be closed immediately.
+Thanks for contacting us! Please read and follow these instructions carefully, then you can delete this introductory text. Note that the issue tracker is NOT the place for usage questions and technical assistance; post those at [Discourse](https://discourse.holoviz.org) instead. Issues without the required information below may be closed immediately.
 -->
 
 
