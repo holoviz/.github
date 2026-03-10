@@ -28,5 +28,5 @@ Tools: {e.g., Claude, Codex, GitHub Copilot, ChatGPT, etc.}
 
 <!-- Remove the non relevant items. -->
 
-- [ ] Tests added and is passing
+- [ ] Tests added and are passing
 - [ ] Added documentation
