@@ -5,7 +5,7 @@ Using AI? READ FIRST: https://holoviz.org/contribute.html#ai-readme
 
 - Summarize the change and which issue is fixed.
 - Include relevant motivation and context.
-- Add visuals when possible, e.g. before/after screenshots with full code snippets.
+- Add visuals when possible by dragging and dropping or pasting into the PR, e.g. before/after screenshots with full code snippets
 -->
 
 Fixes #{issue}
