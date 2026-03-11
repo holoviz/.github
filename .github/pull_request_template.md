@@ -21,8 +21,9 @@ Fixes #{issue}
   - [ ] I have tested all AI-generated content in my PR.
   - [ ] I take responsibility for all AI-generated content in my PR.
 
-<!-- If you used AI to generate code, please specify the tool and model used, and how you have used it. -->
-Tools: {e.g., Claude, Codex, GitHub Copilot, ChatGPT, etc.}
+<!-- If you used AI to generate code, please specify the tool and model used, and briefly describe how they were used. -->
+
+Tools and Models: {e.g., Cursor + Sonnet 4.6, Claude Code + Opus 4.6, Antigravity + Gemini Flash 3, ChatGPT, etc.}
 
 ## Checklist
 
