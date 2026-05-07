@@ -12,4 +12,4 @@ Fixes #{issue}
 
 - [ ] Tests added and are passing
 - [ ] Added documentation
-- [ ] This PR contains AI-generated content and I have tested all AI-generated content in my PR. **The AI tools / models are listed below.**
+- [ ] This PR contains AI-generated content. I have tested all AI-generated content and I take responsibility for all AI-generated content in my PR. **The AI tools / models are listed below.**
