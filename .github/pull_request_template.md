@@ -2,10 +2,12 @@
 
 ## Description
 <!-- Summarize the change and which issue is fixed. Be sure to include relevant motivation and context. -->
+
 Fixes #{issue}
 
 ## AI Disclosure
 <!-- Delete this section if AI was not used, else **specify the tool/model (e.g. Cursor + Sonnet 4.6, Claude Code + Opus 4.6, ChatGPT) and briefly describe how it was used.** Failure to disclose AI usage may result in a ban. -->
+
 - Tool & Model:
 - Usage:
 
