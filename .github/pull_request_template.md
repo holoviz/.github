@@ -1,8 +1,16 @@
 <!-- Using AI? READ FIRST: https://holoviz.org/contribute.html#ai-readme -->
 
 ## Description
-<!-- Summarize the change and which issue is fixed. Be sure to include relevant motivation and context. If AI was used, **specify the tool/model (e.g. Cursor + Sonnet 4.6, Claude Code + Opus 4.6, ChatGPT) and briefly describe how it was used.** Failure to disclose AI usage may result in a ban. -->
+<!-- Summarize the change and which issue is fixed. Be sure to include relevant motivation and context. -->
 Fixes #{issue}
+
+## AI Disclosure
+<!-- Delete this section if AI was not used, else **specify the tool/model (e.g. Cursor + Sonnet 4.6, Claude Code + Opus 4.6, ChatGPT) and briefly describe how it was used.** Failure to disclose AI usage may result in a ban. -->
+- Tool & Model:
+- Usage:
+
+- [ ] I have tested all AI-generated content in my PR.
+- [ ] I take responsibility for all AI-generated content in my PR.
 
 ## How Has This Been Tested?
 <!-- Describe the tests run to verify these changes and how to reproduce them (copy-pastable minimal, reproducible example). Include visuals when possible (e.g. before/after screenshots). -->
@@ -12,6 +20,3 @@ Fixes #{issue}
 
 - [ ] Tests added and are passing
 - [ ] Added documentation
-- [ ] This PR contains AI-generated content.
-  - [ ] I have tested all AI-generated content in my PR.
-  - [ ] I take responsibility for all AI-generated content in my PR.
