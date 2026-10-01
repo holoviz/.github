@@ -1,4 +1,4 @@
-<!-- Using AI? READ FIRST: https://holoviz.org/contribute.html#ai-readme -->
+<!-- Using AI? READ FIRST: https://holoviz.org/contribute/index.html#using-ai-readme -->
 
 ## Description
 <!-- Summarize the change and which issue is fixed. Be sure to include relevant motivation and context. Describe the tests run to verify these changes and how to reproduce them (copy-pastable minimal, reproducible example). Include visuals when possible (e.g. before/after screenshots). -->
