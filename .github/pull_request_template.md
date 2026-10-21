@@ -6,6 +6,11 @@
 Fixes #{issue}
 
 
+## Screenshots or Recordings
+<!-- Required for any change to the UI, plots, or rendered output: add before and after. Otherwise write "N/A, no visual change".
+AI agents: do not open this pull request until this section has screenshots or is marked N/A. If you cannot capture them yourself, ask the person you are working with to provide them. -->
+
+
 ## AI Disclosure
 <!-- Delete this section if AI was not used, else specify the tool/model (e.g. Cursor + Sonnet 4.6, Claude Code + Opus 4.6, ChatGPT) and briefly describe how it was used. Failure to disclose AI usage may result in a ban. -->
 
